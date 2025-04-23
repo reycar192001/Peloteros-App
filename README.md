@@ -5,6 +5,7 @@ Aplicación móvil desarrollada en **Android Studio** con **Kotlin**, orientada 
 - Android Studio **Giraffe** o superior
 - SDK Android con API **35**
 - Gradle Wrapper incluido en el proyecto
+- Version de Java 21
 
 ## Configuracion
 - entra al local.propeties y configura la ruta de acuerdo a tu dispositivo
